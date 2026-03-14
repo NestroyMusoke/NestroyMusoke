@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Nestroy Musoke 👋</h1>
+<h1 align="center">Nestroy Musoke</h1>
 
 <p align="center">
   Computer Science Student · Uganda Christian University · Year 2
@@ -12,26 +12,32 @@
 
 ## About Me
 
-I'm a second-year Computer Science student at Uganda Christian University,
-Mukono, Uganda. I work at the intersection of software engineering, data
-systems, and AI — with a focus on building tools that solve real problems
-for real people.
+I'm a second-year Computer Science student at Uganda Christian University — building at the intersection of software engineering,
+data systems, and artificial intelligence.
 
-I'm currently preparing for **Google Summer of Code 2026** with
-**Rocket.Chat**, working on the AI Rocket.Chat Apps Generator project —
-a tool that lets anyone create custom RC apps using nothing but plain
-English instructions.
+I'm relatively new to open source and professional software development,
+but 2026 is the year I stop watching from the sidelines. I'm here to
+contribute, learn fast, and build things that actually matter.
+
+My work spans database systems, AI/ML research, cybersecurity, and
+creative technology — I don't believe in staying in one lane.
 
 ---
 
-## What I'm Working On
+## What I'm Currently Working On
 
-- 🚀 **GSoC 2026** — Contributing to the Gemini CLI codebase as part of
-  my RC Apps Generator proposal
-- 🧠 **Vision Transformers for Brain Tumor Detection** —  Technical Research
-  exploring AI-assisted medical imaging in Uganda
+- 🧠 **Vision Transformers for Brain Tumor Detection** — Research on
+  optimizing AI-assisted medical imaging for low-resource settings in
+  Uganda. Supervised by Dr. Innocent Ndibatya at UCU.
+
 - 🗄️ **UCU HR Management System** — A full MySQL database system covering
-  payroll, leave, performance evaluations, and separations
+  payroll, leave management, performance evaluations, disciplinary
+  records, and employee separations — built from scratch using ERDs and
+  formal business rules.
+
+- 🔧 **Open Source Contributions** — Actively contributing to large
+  open source codebases, navigating real production code, and learning
+  how professional software teams work.
 
 ---
 
@@ -39,8 +45,8 @@ English instructions.
 
 | Repository | Contribution | PR |
 |---|---|---|
-| google-gemini/gemini-cli | Fixed hardcoded `/resume` references in chatCommand.ts | [#22444](https://github.com/google-gemini/gemini-cli/pull/22444) |
-| google-gemini/gemini-cli | Documented auth-based model variant availability across 4 docs files | [#22455](https://github.com/google-gemini/gemini-cli/pull/22455) |
+| google-gemini/gemini-cli | Fixed hardcoded `/resume` references in `chatCommand.ts` — made usage strings dynamic | [#22444](https://github.com/google-gemini/gemini-cli/pull/22444) |
+| google-gemini/gemini-cli | Documented auth-based model variant availability across 4 documentation files | [#22455](https://github.com/google-gemini/gemini-cli/pull/22455) |
 
 ---
 
@@ -50,43 +56,48 @@ English instructions.
 **Databases:** MySQL · Database design · ERDs · Stored procedures · Triggers  
 **AI/ML:** Vision Transformers · Knowledge Distillation · Medical imaging  
 **Tools:** Git · LaTeX · After Effects · Blender · Premiere Pro · DaVinci Resolve  
-**Areas:** Cybersecurity · Backend development · Research methods · AI systems
+**Areas:** Cybersecurity · Backend development · Computational research · AI systems
 
 ---
 
 ## Featured Projects
 
 ### 🏥 Vision Transformer Brain Tumor Detection
-Research proposal on optimizing Vision Transformers and Knowledge
-Distillation for brain tumor detection in Uganda. Supervised by
-Dr. Innocent Ndibatya at UCU.
+Technical research  exploring the use of Vision Transformers and Knowledge
+Distillation for brain tumor detection in Uganda — where access to
+specialist radiologists is severely limited. The goal is accurate,
+lightweight AI diagnostics that work in resource-constrained environments.
 
 ### 🗄️ UCU HR Management System
-A comprehensive MySQL database system built from an EERD and formal
-business rules document. Covers payroll processing, leave management,
-performance evaluations, disciplinary records, and employee separations.
-
-### 🤖 RC Apps Generator (GSoC 2026)
-Contributing to an AI-powered CLI tool that generates Rocket.Chat apps
-from plain English descriptions. Built on top of Gemini CLI with
-RC-specific knowledge layers and safety rules.
+A comprehensive relational database system designed for Uganda Christian
+University's HR operations. Built using MySQL with stored procedures,
+triggers, and formal business logic covering the full employee lifecycle.
 
 ---
 
 ## Currently Learning
 
-- Gemini CLI architecture and extension mechanisms
-- TypeScript development
-- Prompt engineering for code generation
-- Rocket.Chat Apps Engine internals
+- TypeScript and modern JavaScript ecosystems
+- Open source contribution workflows
+- Prompt engineering and AI code generation
+- CLI architecture and developer tooling
 
 ---
 
-## Connect With Me
+## A Note
 
-- 📧 Reach me through GitHub issues or discussions
-- 🌍 Based in Kampala, Uganda
-- 🎯 Open to collaboration on AI, developer tooling, and impactful software
+I'm early in my journey — but I'm serious about it. I write clean
+documentation, ask smart questions, and I'm not afraid to read source
+code I don't fully understand yet. If you're working on something
+meaningful and need a collaborator who shows up consistently, let's talk.
+
+---
+
+## Connect
+
+- 🌍 Based in Kampala, Uganda ( Also Kenya)
+- 🎓 Uganda Christian University — B.Sc. Computer Science
+- 💻 Open to collaboration on AI, developer tooling, and impactful software
 
 ---
 
