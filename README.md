@@ -1,132 +1,134 @@
-<h1 align="center">Nestroy Musoke</h1>
+<div align="center">
 
-<p align="center">
-  Computer Science Student · Uganda Christian University · Kampala, Uganda 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=280&section=header&text=Nestroy%20Musoke&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=Building%20intelligent%20systems%20that%20solve%20real-world%20problems&descAlignY=72&descSize=20&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <em>"Build things that matter. Ship things that work."</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=1000&color=60A5FA&center=true&vCenter=true&width=860&lines=Computer+Science+%C2%B7+Uganda+Christian+University;AI+Research+%C2%B7+Vision+Transformers;Time+Series+%C2%B7+Data+Systems+%C2%B7+Open+Source;Ship+technology+that+survives+reality." />
 
----
+<br/><br/>
 
-## 🚀 About Me
+<img src="https://img.shields.io/badge/Kampala%2C%20Uganda-0f172a?style=for-the-badge&logo=googlemaps&logoColor=60A5FA&labelColor=1e2937"/>
+<img src="https://img.shields.io/badge/Focus-AI+%26+Systems-0f172a?style=for-the-badge&logo=openai&logoColor=60A5FA&labelColor=1e2937"/>
+<img src="https://img.shields.io/badge/Status-Always%20Building-0f172a?style=for-the-badge&logo=githubactions&logoColor=60A5FA&labelColor=1e2937"/>
+<img src="https://img.shields.io/badge/Year-2nd%20Year%20CS-0f172a?style=for-the-badge&logo=git&logoColor=60A5FA&labelColor=1e2937"/>
 
-I'm a second-year CS student who builds at the intersection of data
-systems, AI research, and developer tooling. I'm new to the open source
-world — but I move fast, read source code I don't fully understand yet,
-and I show up consistently.
-
-My engineering focus in 2026:
-
-- 🤖 **AI Systems:** Researching Vision Transformers for medical imaging
-  in low-resource environments — where the impact of getting it right
-  actually matters.
-- 🗄️ **Data Engineering:** Designing relational systems with real
-  business logic — stored procedures, triggers, and full employee
-  lifecycle management in MySQL.
-- 🔧 **Developer Tooling:** Contributing to open source CLI tools,
-  learning how production codebases are structured, and building toward
-  AI-powered code generation systems.
+</div>
 
 ---
 
-## 🛠️ The Stack
+## `> whoami`
+
+```ts
+const nestroy = {
+  role: "CS Student & AI Researcher @ Uganda Christian University",
+  basedIn: "Kampala, Uganda",
+  currently: [
+    "Vision Transformers for medical imaging",
+    "Time-series systems",
+    "Production-grade data engineering"
+  ],
+  drivenBy: "Technology that works when the lights go out",
+  mantra: "Read papers you’re not ready for. Ship code that matters anyway."
+};
+```
+
+I’m a second-year Computer Science student building at the intersection of AI research, scalable data systems, and developer tooling.
+
+I read research papers I don’t fully understand yet, contribute to codebases larger than my experience, and ship solutions designed for real hospitals, real infrastructure, and real humans in low-resource environments.
+
+---
+
+## `> current_mission`
+
+Focused on creating intelligent, deployable systems that solve high-stakes problems where getting it right actually matters.
+
+- 🧠 **Medical AI** — Lightweight Vision Transformers + Knowledge Distillation for brain tumor detection in low-resource clinical settings  
+- 📈 **Temporal Intelligence** — Mastering `sktime` and modern time-series systems  
+- 🗄️ **Production Data Systems** — Real-world databases with EERDs, triggers, and business logic  
+- 🔧 **Next-Gen Tooling** — AI-augmented developer environments and CLIs  
+
+---
+
+## `> tech_stack`
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,bash,latex" />
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### AI · ML · Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,huggingface" />
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Data & Backend
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,nodejs,fastapi,prisma" />
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### Creative Tools
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+### Infrastructure & Tooling
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,figma,blender,vscode" />
 
 ---
 
-## 💎 Engineering Showcases
+## `> featured_projects`
 
-### 🧠 Vision Transformer Brain Tumor Detection
-*AI-assisted medical imaging for Uganda*
-
-- **Research Focus:** Optimizing ViT + Knowledge Distillation pipelines
-  for brain tumor classification in low-resource clinical settings.
-- **Problem:** Specialist radiologists are severely limited in Uganda —
-  accurate lightweight AI diagnostics could change that.
-- **Tech:** Python · Vision Transformers · Knowledge Distillation ·
-  Medical Imaging Datasets
-- **Supervisor:** Dr. Innocent Ndibatya, Uganda Christian University
+### 🧠 Vision Transformers for Medical Imaging
+Lightweight ViT + Knowledge Distillation pipeline for brain tumor detection.  
+**Tech:** PyTorch • Transformers • OpenCV • ONNX  
 
 ---
 
-### 🗄️ UCU HR Management System
-*Enterprise-grade database system for Uganda Christian University*
-
-- **Architecture:** Full relational system designed from EERD and formal
-  business rules covering the complete employee lifecycle.
-- **Core Engine:** Stored procedures and triggers for payroll processing,
-  leave management, performance evaluations, disciplinary records, and
-  employee separations.
-- **Tech:** MySQL · Stored Procedures · Triggers · ERD Design
+### 📈 sktime Temporal Intelligence
+Time-series forecasting, classification, and anomaly detection systems.  
+**Tech:** sktime • Pandas • PyTorch • Statsmodels  
 
 ---
 
-### 🔧 Gemini CLI — Open Source Contributions
-*Contributing to Google's open source AI terminal tool*
-
-- **PR #22444:** Fixed hardcoded `/resume` command references in
-  `chatCommand.ts` — made usage strings dynamic using
-  `context.invocation?.name` to support both `/chat` and `/resume`
-  aliases correctly.
-- **PR #22455:** Documented authentication-based model variant
-  restrictions across 4 documentation files — clarifying that
-  `gemini-3.1-pro-preview-customtools` is exclusively available to
-  Gemini API Key users.
-- **Tech:** TypeScript · Markdown · CLI Architecture
+### 🗄️ Enterprise Relational Systems
+Full lifecycle database systems from EERD to production.  
+**Tech:** PostgreSQL • MySQL • PL/pgSQL • Prisma  
 
 ---
 
-## 📊 Analytics & Impact
+### 🔧 Open Source at Scale
+Contributing to real-world AI tooling and infrastructure projects.
+
+---
+
+## `> github_metrics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NestroyMusoke&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NestroyMusoke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60A5FA&icon_color=60A5FA&text_color=cbd5e1"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestroyMusoke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60A5FA&text_color=cbd5e1"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NestroyMusoke&theme=tokyonight&hide_border=true&background=0f172a&stroke=60A5FA&ring=60A5FA&fire=60A5FA"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NestroyMusoke&theme=dark&hide_border=true" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=NestroyMusoke&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=60A5FA&line=60A5FA&point=ffffff&area=true&area_color=60A5FA"/>
 </p>
 
 ---
 
-## 🤝 Open To
+## `> my_north_star`
 
-- Collaboration on AI, developer tooling, and impactful software
-- Research partnerships in medical AI and low-resource computing
-- Open source projects with real-world significance
+> Uganda needless to say the world doesn’t need another todo app.  
+> It needs systems that keep working when the power flickers,  
+> models trained by people who understand the hospitals they serve,  
+> and databases that survive real humans, real constraints, and real deadlines.  
+
+I’m early. I’m serious. And I’m only getting started.
 
 ---
 
-*"I'm early in my journey — but I'm serious about it."*
+## `> let's_connect`
+
+Open to:
+- AI research & real-world system design (across industries)
+- High-impact collaborations (health, finance, infrastructure, etc.)
+- Production-grade open source
+- Developer tooling & intelligent systems
+- Serious conversations about building technology that actually survives reality
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e2937"/>
+  <img src="https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e2937"/>
+  <img src="https://img.shields.io/badge/GitHub-60A5FA?style=for-the-badge&logo=github&logoColor=white&labelColor=1e2937"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=110&section=footer&text=" width="100%"/>
